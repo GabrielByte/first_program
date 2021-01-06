@@ -1,2 +1,2 @@
 # first_program
- This program works kind of like a resister.
+ This program works kind of like a register.
